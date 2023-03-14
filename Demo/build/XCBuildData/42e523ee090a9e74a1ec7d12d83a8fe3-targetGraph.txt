@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+AFNetworking in Pods, no dependencies
+Masonry in Pods, no dependencies
+Pods-Demo in Pods, depends on:
+AFNetworking in Pods (explicit)
+Masonry in Pods (explicit)

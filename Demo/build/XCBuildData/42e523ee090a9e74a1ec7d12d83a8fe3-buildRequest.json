@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9853a735b3dbcb86fa532787dbbe741ba1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e3be389a010182c334a5c542b48f8dc5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98dea476778b4cef2e5b9f1b259c87582d"
+    }
+  ],
+  "containerPath" : "/Users/joe.cheng/cocoapods-ppbuild-master/Demo/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/joe.cheng/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/joe.cheng/Library/Developer/Xcode/DerivedData/Pods-agtcckiadheelgerduohztjwgkur/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/joe.cheng/Library/Developer/Xcode/DerivedData/Pods-agtcckiadheelgerduohztjwgkur/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
